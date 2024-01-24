@@ -1,6 +1,5 @@
 <!--![woolen's GitHub stats](https://github-readme-stats.vercel.app/api?username=woolen-h&show_icons=true&theme=radical)-->
 <div align="center">
-<h1>Hi there! ✨</h1><br>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=36&duration=3000&pause=500&color=F7F7F7&background=000000&center=true&multiline=true&random=false&width=850&height=60&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
   
