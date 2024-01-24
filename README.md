@@ -4,7 +4,7 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&duration=3000&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
   
-  TECH STACK<br>
+  ⚙ TECH STACK ⚙<br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=black"><img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat-square&logo=JQUERY&logoColor=white"><img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=BOOTSTRAP&logoColor=white"><img src="https://img.shields.io/badge/swiper-6332F6?style=flat-square&logo=swiper&logoColor=white"><img src="https://img.shields.io/badge/STORYBOOK-FF4785?style=flat-square&logo=STORYBOOK&logoColor=white"><img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=GIT&logoColor=white"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GITHUB&logoColor=white">
   
   HAVE USED<br>
