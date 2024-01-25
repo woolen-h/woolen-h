@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=REACT&logoColor=black"><img src="https://img.shields.io/badge/VUE.js-4FC08D?style=flat-square&logo=VUE.js&logoColor=white"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-AWS&logoColor=white"><img src="https://img.shields.io/badge/TOMCAT-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black"><img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
   
   🎇 <strong>DESIGN TOOL</strong> 🎇<br><br>
-  <img src="https://img.shields.io/badge/photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white"><img src="https://img.shields.io/badge/illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white"><img src="https://img.shields.io/badge/indesign-FF3366?style=flat-square&logo=adobe-indesign&logoColor=white">
+  <img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white"><img src="https://img.shields.io/badge/ILLUSTRATOR-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white"><img src="https://img.shields.io/badge/INDESIGN-FF3366?style=flat-square&logo=adobe-indesign&logoColor=white">
 </div>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
